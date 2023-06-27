@@ -9,7 +9,7 @@ Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ,
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=AndreyLobato&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=AndreyLobato&show_icons=true&theme=white"
       media="(prefers-color-scheme: dark)"
     />
   <source
