@@ -19,7 +19,7 @@ Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ,
 <img src="https://github-readme-stats.vercel.app/api?username=AndreyLobato&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyLobato&layout=compact&bg_color=FFFFFF&title_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyLobato&layout=compact&bg_color=FFFFFF&title_color=151515)
 
 
 ## 💻 Principais ferramentas: 
