@@ -1,7 +1,7 @@
 ### Olá Pessoal! 👋😁
 
 
-Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ, estagiário de Dados na OlxBrasil, líder do grupo de IA no IEEE Uerj e um apaixonado pelo mundo de dados. 
+Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ, estagiário de Dados na OlxBrasil e um apaixonado pelo mundo de dados. 
 
 
 ## 📊 Estatísticas: 
