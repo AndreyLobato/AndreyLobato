@@ -1,7 +1,10 @@
 ### Olá Pessoal! 👋😁
 
 
-Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ, estagiário de Dados na OlxBrasil e um apaixonado pelo mundo de dados. 
+Meu nome é Andrey Lobato, sou Engenheiro de Computação em formação na UERJ e Analista de Dados na OlxBrasil! Tenho 2 projetos nesse repositório: 
+
+1 - **churn-predict-trab-final:** Projeto de Análise+Machine Learning cujo objetivo é prever a possibilidade de saída ou não do cliente de um banco.  
+2 - **Youtube-music-top100-analytics:** Projeto de engenharia+analise que busca as bases disponibilizadas no site do youtube sobre as musicas top100 por meio de uma automação(selenium) + acesso aos dados da API youtube e faz algumas análises de dados.
 
 
 ## 📊 Estatísticas: 
